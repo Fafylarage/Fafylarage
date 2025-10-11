@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**Fafylarage/Fafylarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🐍 Learning Python Programming
 
-Here are some ideas to get you started:
+I'm currently on a journey to learn Python programming! This repository contains my learning materials, practice exercises, and example projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 What's Inside
+
+- **[Python Basics Tutorial](python_basics.md)** - Comprehensive guide covering fundamental Python concepts
+- **[Learning Roadmap](learning_roadmap.md)** - Structured path from beginner to intermediate
+- **[Example Scripts](examples/)** - Practical Python scripts demonstrating key concepts
+- **[Practice Exercises](exercises/)** - Hands-on coding challenges with solutions
+
+### 🌱 Current Focus
+
+- Learning Python fundamentals (variables, data types, control structures)
+- Understanding object-oriented programming concepts
+- Building practical projects to apply my knowledge
+- Exploring Python's extensive standard library
+
+### 🎯 Learning Goals
+
+- Master Python syntax and best practices
+- Build real-world applications
+- Contribute to open-source Python projects
+- Prepare for data science and automation tasks
+
+Feel free to explore and learn along with me! 🚀
