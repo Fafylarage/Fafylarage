@@ -869,7 +869,7 @@ elif seite == "📤 Export":
                     pdf.set_font("Helvetica", "B", 7)
                     col_widths = [10, 20, 25, 25, 30, 30, 40, 40, 30]
                     headers = ["ID", "Datum", "Projekt", "Steuergeraet", "Kommunikation",
-                               "Status", "Fehler", "Ursache", "Root Cause"]
+                               "Status", "Fehler", "Ursache", "Root Cause"]  # ASCII for PDF compatibility
 
                     for i, header in enumerate(headers):
                         pdf.cell(col_widths[i], 6, header, border=1)
